@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.a8a40cfc.chunk.css",
+    "main.js": "/Portfolio/static/js/main.d4a87f88.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.d4a87f88.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.d8370359.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.d8370359.js.map",
+    "static/css/2.d6dc494e.chunk.css": "/Portfolio/static/css/2.d6dc494e.chunk.css",
+    "static/js/2.19a93182.chunk.js": "/Portfolio/static/js/2.19a93182.chunk.js",
+    "static/js/2.19a93182.chunk.js.map": "/Portfolio/static/js/2.19a93182.chunk.js.map",
+    "static/js/3.eae24763.chunk.js": "/Portfolio/static/js/3.eae24763.chunk.js",
+    "static/js/3.eae24763.chunk.js.map": "/Portfolio/static/js/3.eae24763.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "static/css/2.d6dc494e.chunk.css.map": "/Portfolio/static/css/2.d6dc494e.chunk.css.map",
+    "static/css/main.a8a40cfc.chunk.css.map": "/Portfolio/static/css/main.a8a40cfc.chunk.css.map",
+    "static/js/2.19a93182.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.19a93182.chunk.js.LICENSE.txt",
+    "static/media/Saad_Resume_Mitacs.39a63a45.pdf": "/Portfolio/static/media/Saad_Resume_Mitacs.39a63a45.pdf",
+    "static/media/about.aee0f771.png": "/Portfolio/static/media/about.aee0f771.png",
+    "static/media/avatar.5852f40f.svg": "/Portfolio/static/media/avatar.5852f40f.svg",
+    "static/media/delta_bot.29737aed.jpg": "/Portfolio/static/media/delta_bot.29737aed.jpg",
+    "static/media/elderly.02b0f57c.jpg": "/Portfolio/static/media/elderly.02b0f57c.jpg",
+    "static/media/style.css": "/Portfolio/static/media/pre.d4812f51.svg",
+    "static/media/home-main.541f8179.svg": "/Portfolio/static/media/home-main.541f8179.svg",
+    "static/media/logo.8f43fb18.png": "/Portfolio/static/media/logo.8f43fb18.png",
+    "static/media/micromouse.292a974a.gif": "/Portfolio/static/media/micromouse.292a974a.gif",
+    "static/media/moodylyser.8b05eaff.png": "/Portfolio/static/media/moodylyser.8b05eaff.png",
+    "static/media/vitirana.4b6e7b7b.gif": "/Portfolio/static/media/vitirana.4b6e7b7b.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8370359.js",
+    "static/css/2.d6dc494e.chunk.css",
+    "static/js/2.19a93182.chunk.js",
+    "static/css/main.a8a40cfc.chunk.css",
+    "static/js/main.d4a87f88.chunk.js"
+  ]
+}
