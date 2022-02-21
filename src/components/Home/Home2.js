@@ -33,7 +33,7 @@ function Home2() {
                 <b className="purple">Robotics, Mechanical Design and ROS </b> and
                 also in areas related to{" "}
                 <b className="purple">
-                  Simulation and 
+                  Simulation
                 </b>
               </i>
               <br />

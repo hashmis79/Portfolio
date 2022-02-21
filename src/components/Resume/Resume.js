@@ -42,12 +42,12 @@ function Resume() {
           <Col md={6} className="resume-left">
             <h3 className="resume-title">Experience</h3>
             <Resumecontent
-              title="Technical Intern [Airpix]"
-              date="June 2021 - July 2021"
+              title="Research Intern [Robert Bosch Center for Cyber-Physical Systems, IISC Bangalore]"
+              date="December 2021 - Present"
               content={[
-                "Worked on the developing the NPNT compliance firmware for a drone",
-                "Researched about the current NPNT compliance regulations and requirements",
-                "Analysed the NPNT compliant code for ArduPilot",
+                "Designed the foot of a quadruped and later 3D Printed the part(made of TPU)",
+                "Worked on strenthening different parts of the Quadruped",
+                "Designed the Heat Sink for the BLDC Encoders to avoid overheating of the circuits.",
               ]}
             />
             <h3 className="resume-title">Extracurricular Activities</h3>
