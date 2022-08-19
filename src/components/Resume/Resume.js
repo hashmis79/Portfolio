@@ -4,7 +4,7 @@ import Button from "react-bootstrap/Button";
 import Particle from "../Particle";
 import Resumecontent from "./ResumeContent";
 import axios from "axios";
-import pdf from "../../Assets/Saad_Resume_Mitacs.pdf";
+import pdf from "../../Assets/Saad_Resume_2022.pdf";
 import { AiOutlineDownload } from "react-icons/ai";
 
 function Resume() {
@@ -42,8 +42,17 @@ function Resume() {
           <Col md={6} className="resume-left">
             <h3 className="resume-title">Experience</h3>
             <Resumecontent
+              title="Intern [Centre for AI and Robotics, Defense R&D Organisation of India (DRDO), Bangalore]"
+              date="June 2022 - July 2022"
+              content={[
+                "Designed the simulation setup for Single Arm Manipulation of Various Objects using ROS, Gazebo, MoveIt.",
+                "Implemented GraspNet for End Effector Pose Estimation while picking up uncommon objects.",
+                "Was instruemental in the interfacing of Gazebo, MoveIt, OpenCV and GraspNet for a functional simulation Setup.",
+              ]}
+            />
+            <Resumecontent
               title="Research Intern [Robert Bosch Center for Cyber-Physical Systems, IISC Bangalore]"
-              date="December 2021 - Present"
+              date="December 2021 - March 2022"
               content={[
                 "Designed the foot of a quadruped and later 3D Printed the part(made of TPU)",
                 "Worked on strenthening different parts of the Quadruped",
@@ -65,14 +74,14 @@ function Resume() {
             <Resumecontent
               title="B-tech in Mechanical Engineering [Veermata Jijabai Technological Institute, Mumbai] "
               date="2019 - Present"
-              content={[`CGPA: 8.59 (Till 4th Sem)`]}
+              content={[`CGPA: 8.22 (Till 6th Sem)`]}
             />
             <h3 className="resume-title">Ranks and Achivements</h3>
             <Resumecontent
               title=""
               content={[
                 `Were in the Top 20 Teams in Eyantra National Robotics Challenge, Organized by IIT Bombay`,
-                `Were in the Top 18 Teams in the Microouse Challenge`,
+                `Were in the Top 18 Teams in the Micromouse Challenge`,
               ]}
             />
           </Col>
