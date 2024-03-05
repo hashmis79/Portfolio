@@ -8,6 +8,7 @@ import micromouse from "../../Assets/Projects/micromouse.gif";
 import vitarana from "../../Assets/Projects/vitirana.gif";
 import moodylyser from "../../Assets/Projects/moodylyser.png";
 import elderly from "../../Assets/Projects/elderly.jpg";
+import activlink from "../..Assets/Projects/gripper.jpg";
 
 function Projects() {
   return (
@@ -56,7 +57,7 @@ function Projects() {
               imgPath={moodylyser}
               isBlog={false}
               title="Moodylyser"
-              description="Aim of this project was to predict emotions of a person by analysing a live videofeed of a person. We used a Deep Learning to detect facial features and emotions "
+              description="Aim of this project was to predict emotions of a person by analyzing a live video feed of a person. We used Deep Learning to detect facial features and emotions "
               link="https://github.com/hashmis79/Moodylyser"
             />
           </Col>
@@ -66,8 +67,17 @@ function Projects() {
               imgPath={elderly}
               isBlog={false}
               title="Elderly App"
-              description="This is a flutter Application developed to help elders regarding their medical details.This app will help elders to take their medicines and diet as specified by their doctor without any delay in time."
+              description="This is a flutter Application developed to help elders regarding their medical details. This app will help elders to take their medicines and diet as specified by their doctor without any delay in time."
               link="https://github.com/hashmis79/Elderly_App"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={activlink}
+              isBlog={false}
+              title="Acti-V-Link Gripper"
+              description="This is a Novel Mechanically Underactuated Linkage Mechanism with Active Surfaces for efficient grasping and in-hand manipulation. This closed loop system for rotation and translation operations using aruco markers."
+              link="https://www.youtube.com/watch?v=d8GOwXEKnTc&feature=youtu.be"
             />
           </Col>
         </Row>
