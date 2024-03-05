@@ -8,7 +8,7 @@ import micromouse from "../../Assets/Projects/micromouse.gif";
 import vitarana from "../../Assets/Projects/vitirana.gif";
 import moodylyser from "../../Assets/Projects/moodylyser.png";
 import elderly from "../../Assets/Projects/elderly.jpg";
-import activlink from "../..Assets/Projects/gripper.jpg";
+import activlink from "../../Assets/Projects/gripper.jpg";
 
 function Projects() {
   return (
