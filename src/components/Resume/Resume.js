@@ -68,6 +68,8 @@ function Resume() {
                 "Designed the Heat Sink for the BLDC Encoders to avoid overheating of the circuits.",
               ]}
             />
+          </Col>
+          <Col md={6} className="resume-right">
             <h3 className="resume-title">Extracurricular Activities</h3>
             <Resumecontent
               title="Mechanical Head [Society of Robotics and Automation]"
@@ -77,8 +79,6 @@ function Resume() {
                 "Taught the basics of CAD at the Dimensions Workshop to over 80 Freshmen students",
               ]}
             />
-          </Col>
-          <Col md={6} className="resume-right">
             <h3 className="resume-title">Education</h3>
             <Resumecontent
               title="B-tech in Mechanical Engineering [Veermata Jijabai Technological Institute, Mumbai] "
