@@ -30,6 +30,13 @@ function Resume() {
 
   return (
     <Container fluid className="resume-section">
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-0D2ZBMTD5D');
+    </script>
       <Particle />
       <Container>
         <Row style={{ justifyContent: "center", position: "relative" }}>
