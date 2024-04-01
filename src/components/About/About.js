@@ -10,6 +10,13 @@ import Toolstack from "./Toolstack";
 function About() {
   return (
     <Container fluid className="about-section">
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-0D2ZBMTD5D');
+    </script>
       <Particle />
       <Container>
         <Row style={{ justifyContent: "center", padding: "10px" }}>
