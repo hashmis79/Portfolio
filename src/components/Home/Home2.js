@@ -12,6 +12,14 @@ import { FaLinkedinIn } from "react-icons/fa";
 function Home2() {
   return (
     <Container fluid className="home-about-section" id="about">
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-0D2ZBMTD5D"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-0D2ZBMTD5D');
+    </script>
       <Container>
         <Row>
           <Col md={8} className="home-about-description">
