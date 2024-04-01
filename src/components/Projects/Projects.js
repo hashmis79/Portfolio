@@ -13,6 +13,13 @@ import activlink from "../../Assets/Projects/gripper.jpg";
 function Projects() {
   return (
     <Container fluid className="project-section">
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-0D2ZBMTD5D');
+    </script>
       <Particle />
       <Container>
         <h1 className="project-heading">
